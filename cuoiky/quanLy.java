@@ -484,7 +484,7 @@ public class quanLy {
             }System.out.println();
         }else {
             System.out.println("Vui long nhap lai !");
-            timKiemTheoNgay();
+            timTheoNgay();
         }
     }
     public static Date chuyenChuoiSangNgay(String chuoiNgay) throws ParseException{
