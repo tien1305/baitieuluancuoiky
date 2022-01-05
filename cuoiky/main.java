@@ -29,13 +29,13 @@ public class main {
         HangHoa hh12 = new sanhSu("215", "Bat com",  50000, 100, "07/07/2016");
 
         HangHoa hh13 = new thucPham("310", "ca chua", 18000, 157, "13/12/2020");
-        HangHoa hh14 = new thucPham("311", "ca rot", 35000, 143, "13/12/2020");
-        HangHoa hh15 = new thucPham("312", "Thit Ga", 80000, 38, "13/12/2020");
-        HangHoa hh16 = new thucPham("313", "Thit Lon", 100000, 40, "13/12/2020");
-        HangHoa hh17 = new thucPham("314", "Thit Bo", 250000, 25, "13/12/2020");
-        HangHoa hh18 = new thucPham("315", "Rau Muong", 15000, 90, "13/12/2020");
-        HangHoa hh19 = new thucPham("316", "Ca Xay", 65000, 70, "13/12/2020");
-        HangHoa hh20 = new thucPham("317", "Tao", 25000, 135, "13/12/2020");
+        HangHoa hh14 = new thucPham("311", "ca rot", 35000, 143, "19/12/2021");
+        HangHoa hh15 = new thucPham("312", "Thit Ga", 80000, 38, "10/11/2020");
+        HangHoa hh16 = new thucPham("313", "Thit Lon", 100000, 40, "17/02/2021");
+        HangHoa hh17 = new thucPham("314", "Thit Bo", 250000, 25, "18/03/2020");
+        HangHoa hh18 = new thucPham("315", "Rau Muong", 15000, 90, "13/05/2021");
+        HangHoa hh19 = new thucPham("316", "Ca Xay", 65000, 70, "26/12/2020");
+        HangHoa hh20 = new thucPham("317", "Tao", 25000, 135, "10/12/2020");
 
         ql.hangHoaCoSan(hh1);
         ql.hangHoaCoSan(hh2);
